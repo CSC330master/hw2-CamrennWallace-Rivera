@@ -1,0 +1,50 @@
+
+git commands
+
+- git add
+- git status
+- git commit -m "comment"
+- git push 
+
+
+linux command
+pico hw2.txt
+^o
+^x 
+
+1. List the rules for collaboration on homework assignments
+	
+	Similarly, you can discuss your ideas with your class mates for homework assignments.
+However, do not do your homework with individuals outside of your group. You are welcome to use
+concepts that were not covered in class, which you might already know or found online, but you must be
+able to verbally explain your solution and show thorough understanding of the concepts you used, when
+asked.
+
+If you have not collaborated with any one, this document should include the following statement:
+I did not collaborate with anyone while working on this assignment.
+
+
+2. List the rules for consulting external references for homework assignments
+	
+	You can consult any available resources (printed or online) when doing homework assignments, except
+generative AI tools, like ChatGPT. Always read and understand the material you find. Then put it aside and
+start writing your own answer. This ensures that the work you submit is different enough that it becomes
+your own.
+To ensure academic honesty, please include your sources (and the names of fellow students with whom
+you brainstormed) as a separate document, to be submitted with each assignment.
+If you have not consulted any external sources, this document should include the following statement:
+I did not consult any sources other than the textbook while working on this assignment.
+
+
+3.What is the penalty for submitting late assignments?  
+
+	late assignments will
+be accepted; however, there will be a penalty of 10% per day for submitting late assignments. Exceptions
+will be granted on individual basis, and only for extreme circumstances.
+
+4. What is the penalty for missing classes?  
+
+	When absent, students remain responsible for finding out what class activities occurred during the
+absence and making up missed work if the instructor permits it. When a student knows in advance that it
+will be necessary to miss a class session, the student should inform the instructor.
+
